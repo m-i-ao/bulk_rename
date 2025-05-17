@@ -7,7 +7,7 @@ simple bulk rename utility
 - Анализ расширений: Фильтрация файлов по расширениям после анализа.
 - Тема и язык: Переключение между светлой/тёмной темой и русским/английским языком.
 - Обработка конфликтов: Замена существующего файла или добавление "(same)" при конфликте имён.
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - Select files or folder: Choose files or a folder for renaming.
 - Remove characters: Delete specified characters from file names.
 - Handle spaces: Remove spaces or replace them with "_".
